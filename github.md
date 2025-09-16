@@ -21,7 +21,7 @@ Neste módulo, apresento alguns dos projetos nos quais atuei, destacando as habi
 - Com o passar dos meses, desenvolvi um interesse genuíno pela linguagem.  
 - Nesse projeto, também aprimorei meus conhecimentos técnicos em **VBA, Macros e Engenharia Elétrica**.  
 
-*(// adicionar foto)*  
+![Pirâmide de testes](./pyramid.jpg)  
 
 
 
@@ -39,13 +39,13 @@ Projeto voltado para o desenvolvimento de um sistema de **realidade mista (XR)**
 - Conversão de objetos reais para o ambiente virtual.  
 - Integração do sistema em dispositivos móveis.  
 
-*(// adicionar foto)*  
+![Pirâmide de testes](./pyramid.jpg)
 
 #### Colmap  
 - Geração de malhas de pontos para manipulação de imagens.  
 - Desenvolvimento de um **código em Python** que recebia uma imagem, processava a malha de pontos no Colmap, fazia a limpeza e validava coordenadas (x, y, z), prevenindo erros.  
 
-*(// adicionar imagem)*  
+![Pirâmide de testes](./pyramid.jpg)
 
 #### MeshLab  
 - Manipulação de malhas geradas, adicionando cores, texturas e ajustes.  
@@ -66,7 +66,7 @@ Projeto atual em que atuo, focado na criação de um **sistema de gestão** para
 - Implementação de **Soft Delete**.  
 - Colaboração utilizando **Git**.  
 
-*(// adicionar foto)*  
+![Pirâmide de testes](./pyramid.jpg)
 
 ### Contribuições no Front-End  
 - Criação de protótipos funcionais.  
@@ -74,4 +74,4 @@ Projeto atual em que atuo, focado na criação de um **sistema de gestão** para
 - Desenvolvimento da **página de buscas**.  
 - Desenvolvimento da **página de eventos**.  
 
-*(// adicionar fotos)*  
+![Pirâmide de testes](./pyramid.jpg)

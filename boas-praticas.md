@@ -9,6 +9,7 @@ Sumário
 
 1.  [Sobre Esta Apresentação](#_1-sobre-esse-guia)
 2.  [Desenvolvimento](#_2-desenvolvimento)
+
 <!-- 3.  [Projetos](#_3-projetos)
 4.  [Escala de Aprendizado](#_6-referencias) -->
 
