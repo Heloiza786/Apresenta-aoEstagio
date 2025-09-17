@@ -17,7 +17,7 @@ export default defineConfig({
         items: [
           { text: 'Introdução', link: '/boas-praticas' },
           { text: 'Projetos Realizados', link: '/github' },
-          { text: 'Auto-Avaliação', link: '/teste' },
+          { text: 'AutoAvaliação', link: '/teste' },
          // { text: 'TDD', link: '/tdd' },
         ]
       }

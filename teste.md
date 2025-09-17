@@ -17,7 +17,9 @@
 - Trello / Kanban = 10/10  
 - Banco de dados(MySql) = 8/10  
 - Vue/ts = 5,5/10
-
+- Docker = 4/10
+- Cypress = 7/10
+- Conhecimento em partes especificas da Engenharia Eletrica = 2/10
 
 
 ## 2. Principais Aprendizado  
@@ -30,3 +32,14 @@
 - Entity Framework  
 - Git  
 - TDD  
+
+### 3. Áreas de Interesse
+
+
+**Áreas de interesse para o futuro como desenvolvedor**
+
+Acredito que o momento em que estou na minha vida é um período de experiências e aprendizados. Dentro da empresa, tenho a oportunidade de explorar diferentes tecnologias e desafios. Como futuro cientista da computação, fico satisfeito em participar de projetos variados e inovadores, o que torna difícil definir uma única área de atuação neste momento.
+
+Ainda assim, tenho interesse em aprofundar meus conhecimentos em **redes neurais artificiais**, **API Rest** e desenvolvimento **front-end** e **back-end**, buscando constantemente novas oportunidades para colocar esses aprendizados em prática.
+
+---
